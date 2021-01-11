@@ -440,6 +440,10 @@ hr {
     margin-bottom: 20px;
 }
 
+.footer i {
+    color: var(--negro);
+}
+
 @media (max-width: 900px) {
     
     body {
