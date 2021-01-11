@@ -488,6 +488,11 @@ hr {
         top: 30px;
     }
 
+    .showcase p {
+        text-align: center;
+        padding-left: 7px;
+    }
+
     .nav-brand {
         margin-left: 28%;
     }
