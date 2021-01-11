@@ -4,9 +4,8 @@ document.querySelector('.menu-btn').addEventListener('click', () => {
 ScrollReveal().reveal('.showcase');
 ScrollReveal().reveal('.news-cards', { delay: 600 });
 ScrollReveal().reveal('.news-cards', { delay: 600 });
-ScrollReveal().reveal('.news-cards', { delay: 600 });
-ScrollReveal().reveal('.news-cards', { delay: 600 });
 ScrollReveal().reveal('.cards-banner-one', { delay: 600 });
 ScrollReveal().reveal('.cards-banner-two', { delay: 600 });
 ScrollReveal().reveal('.cards-banner-three', { delay: 600 });
 ScrollReveal().reveal('.cards-banner-four', { delay: 600 });
+ScrollReveal().reveal('div', { delay: 400 });
