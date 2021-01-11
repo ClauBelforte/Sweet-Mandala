@@ -416,7 +416,7 @@ hr {
         margin: 0;
         padding: 30px;
         opacity: .9;
-        transform: translateX(-400px);
+        transform: translateX(-500px);
         transition: transform .5s ease-in-out;
     }
 
